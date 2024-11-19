@@ -1,8 +1,4 @@
-<div align="center">
-
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=8F0D87&height=170&section=header"/>
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=davidfndss&layout=compact&langs_count=7&theme=highcontrast"/>
+# Hey, I'm David 👋 
 
 <div style="display: inline_block"><br>
   <img align="center" alt="JavaScript" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
@@ -11,11 +7,19 @@
   <img align="center" alt="NestJs" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nestjs/nestjs-original.svg">
 </div>
 
+## I'm an Administrator, Athlete and Full-Stack Developer!
+
+- 🔭 Check out my [Portfolio][portfolio]!
+- 🌱 I’m currently learning mobile development
+- 🥅 2025 Goal: Learn more about Java
+- ⚡ Fun fact: I'm an Artist, I love to draw
+
 <br>
 
-## My Skills
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=davidfndss&layout=compact&langs_count=7&theme=highcontrast"/>
 
-#### Main Stack:
+
+## My Skills
 
 ![React](https://img.shields.io/badge/react-1572B6?style=for-the-badge&logo=react&logoColor=white)&nbsp;
 ![Tailwind](https://img.shields.io/badge/tailwind-5BD3FF?style=for-the-badge&logo=tailwindcss&logoColor=black)&nbsp;
@@ -38,8 +42,6 @@
 ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)&nbsp;
 <br>
 
-
-
 ## Contacts:
 
 <div> 
@@ -47,6 +49,4 @@
   <a href="https://www.linkedin.com/in/davidfndss" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 </div>
 
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=8F0D87&height=170&section=footer"/>
-
-</div>
+[portfolio]: https://davidfndss-portfolio.vercel.app
