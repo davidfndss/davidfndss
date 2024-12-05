@@ -10,9 +10,6 @@
 ## I'm an Administrator, Athlete and Full-Stack Developer!
 
 - 🔭 Check out my [Portfolio][portfolio]!
-- 🌱 I’m currently learning mobile development
-- 🥅 2025 Goal: Learn more about Java
-- ⚡ Fun fact: I'm an Artist, I love to draw
 
 <br>
 
