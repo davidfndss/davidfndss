@@ -1,6 +1,6 @@
 # Hey, I'm David 👋 
 
-I am a student and web developer. My projects are designed and developed with a focus on solving real-world problems, covering all stages from planning and design to implementation and delivering functional solutions.  
+I am a web developer. My projects are designed and developed with a focus on solving real-world problems, covering all stages from planning and design to implementation and delivering functional solutions.  
 
 - 🔭 Check out my [Portfolio][portfolio]!
 
