@@ -8,7 +8,7 @@ I am a web developer. My projects are designed and developed with a focus on sol
 - Backend development with **NestJS** or **Spring Boot**  
 - Building modern and high-performance interfaces with **Next.js**  
 - Structuring and managing relational databases like **PostgreSQL** 
-- Mobile development with **React Native** and deployment tools like **Docker**  
+- Mobile development with **Flutter** and deployment tools like **Docker**  
 
 <div>
   <a href="https://www.linkedin.com/in/davidfndss/" target="_blank" rel="noopener noreferrer">
