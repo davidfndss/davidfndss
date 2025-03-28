@@ -42,15 +42,15 @@ I am a web developer. My projects are designed and developed with a focus on sol
 ### Back-End:
 
 <div align="left">
+  <img src="https://skillicons.dev/icons?i=spring" height="40" alt="spring logo"  />
+  <img width="12" />
   <img src="https://skillicons.dev/icons?i=nestjs" height="40" alt="nest logo"  />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=typescript" height="40" alt="typescript logo"  />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=spring" height="40" alt="spring logo"  />
-  <img width="12" />
   <img src="https://skillicons.dev/icons?i=express" height="40" alt="express logo"  />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=node" height="40" alt="node logo"  />
+  <img src="https://skillicons.dev/icons?i=nodejs" height="40" alt="node logo"  />
 </div>
 
 ### Mobile:
