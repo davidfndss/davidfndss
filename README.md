@@ -107,7 +107,7 @@ I am a web developer. My projects are designed and developed with a focus on sol
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
 ![Bun](https://img.shields.io/badge/bun-14151A?style=for-the-badge&logo=bun&logoColor=white)
 ![Express.js](https://img.shields.io/badge/express-DF234F?style=for-the-badge&logo=express&logoColor=white)
-![Prisma](https://img.shields.io/badge/Prisma-3982CE?style=for-the-badge&logo=Prisma&logoColor=white)
+![Prisma](https://img.shields.io/badge/Prisma-purple?style=for-the-badge&logo=Prisma&logoColor=white)
 ![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
