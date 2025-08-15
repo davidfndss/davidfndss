@@ -39,6 +39,9 @@ I am a web developer. My projects are designed and developed with a focus on sol
   <img src="https://skillicons.dev/icons?i=express" height="40" alt="express logo"  />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=nodejs" height="40" alt="node logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=docker" height="40" alt="docker logo"  />
+
 </div>
 
 ### Front-End:
@@ -59,6 +62,8 @@ I am a web developer. My projects are designed and developed with a focus on sol
 
 ### Mobile:
 <div align="left">
+  <img src="https://skillicons.dev/icons?i=react" height="40" alt="react logo"  />
+  <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" height="40" alt="flutter logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-original.svg" height="40" alt="firebase logo"  />
@@ -77,17 +82,7 @@ I am a web developer. My projects are designed and developed with a focus on sol
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/supabase/supabase-original.svg" height="40" alt="supabase logo"  />
 </div>
 
-### Devops:
 
-<div align="left">
-  <img src="https://skillicons.dev/icons?i=git" height="40" alt="git logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=docker" height="40" alt="docker logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=maven" height="40" alt="maven logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=npm" height="40" alt="npm logo"  />
-</div>
 
 ###
 
