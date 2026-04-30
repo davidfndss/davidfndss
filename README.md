@@ -19,6 +19,8 @@ I am a web developer. My projects are designed and developed with a focus on sol
   </a>
 </div>
 
+<br>
+<img width="174" height="174" alt="aws-certified-cloud-practitioner__2_-removebg-preview" src="https://github.com/user-attachments/assets/6d3d18c7-ef32-4320-8d20-5a45ba19388e" />
 
 <br>
 
